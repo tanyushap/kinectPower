@@ -1,0 +1,1 @@
+c:\users\tanyushap\documents\visual studio 2013\Projects\Kinect2Sample\Kinect2Sample\Kinect2Sample.csproj;x64
